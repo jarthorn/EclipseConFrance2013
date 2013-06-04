@@ -1,4 +1,4 @@
-EclipseConFrance2013
-====================
+EclipseConFrance 2013
+======================
 
-Orion presentation for EclipseCon France 2013
+A 35 minute talk on Orion from EclipseCon France 2013
